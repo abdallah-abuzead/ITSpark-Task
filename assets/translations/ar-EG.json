@@ -1,0 +1,70 @@
+{
+  "============": "============================= main =====================================",
+  "search": "البحث",
+  "google_search": "بحث جوجل",
+  "settings": "الإعدادات",
+  "no_matched_results": "لا توجد نتائج متطابقة.",
+
+
+  "=============": "============================= students =====================================",
+  "students": "الطلاب",
+  "students_empty": "طلاب",
+  "add_student": "إضافة طالب جديد",
+  "update_student": "تعديل بيانات الطالب",
+  "class_a": "فصل أ",
+  "class_b": "فصل ب",
+  "class_c": "فصل ج",
+  "save": "حفظ",
+  "add": "إضافة",
+  "delete": "حذف",
+  "id": "رقم الهوية",
+  "class": "الفصل",
+  "dob": "تاريخ الميلاد",
+  "mobile": "الهاتف",
+  "address": "العنوان",
+  "notes": "ملاحظات",
+  "name": "الاسم",
+  "name_hint": "ادخل اسم الطالب",
+  "class_hint": "اختر فصل الطالب",
+  "address_hint": "ادخل عنوان الطالب",
+  "date_of_birth": "تاريخ الميلاد",
+  "mobile_number": "رقم الهاتف",
+  "mobile_number_hint": "ادخل رقم الهاتف",
+  "student_picture": "صورة الطالب",
+  "add_student_picture": "أضف صورة",
+  "browse_files": "تصفح الملفات",
+  "notes_hint": "أدخل ملاحظات حول الطالب",
+  "student_has_been_added_successfully": "تم إضافة الطالب بنجاح.",
+  "student_has_been_updated_successfully": "تم تحديث بيانات الطالب بنجاح.",
+  "student_has_been_deleted_successfully": "تم حذف الطالب بنجاح.",
+
+
+  "===============": "================================== setting =================================",
+  "main_settings": "الإعدادات الرئيسية",
+  "language": "اللغة",
+  "profile": "الملف الشخصى",
+  "notifications": "الإشعارات",
+  "security": "الحماية",
+  "reach_out_to_us": "تواصل معنا",
+  "about": "حول التطبيق",
+  "share": "مشاركة التطبيق",
+
+  "==============": "=========================== snack bars & dialogs ============================",
+  "loading": "جار التحميل",
+  "there_is_no": "لا يوجد",
+  "yet": "بعد!.",
+  "try_again": "حاول مجددا",
+  "internal_server_error_try_again_later": "خطأ في الخادم!. حاول مرة أخرى في وقت لاحق.",
+  "please_wait": "برجاء الانتظار",
+
+
+
+
+
+
+
+
+  "end": ""
+
+
+}

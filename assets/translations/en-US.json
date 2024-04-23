@@ -1,0 +1,67 @@
+{
+  "============": "============================= main =====================================",
+  "search": "Search",
+  "google_search": "Google Search",
+  "settings": "Settings",
+  "no_matched_results": "No matched results.",
+
+
+  "=============": "============================= students =====================================",
+  "students": "Students",
+  "students_empty": "students",
+  "add_student": "Add Student",
+  "update_student": "Edit Student",
+  "class_a": "Class A",
+  "class_b": "Class B",
+  "class_c": "Class C",
+  "save": "Save",
+  "add": "Add",
+  "delete": "Delete",
+  "id": "ID",
+  "class": "Class",
+  "dob": "DOB",
+  "mobile": "Mobile",
+  "address": "Address",
+  "notes": "Notes",
+  "name": "Name",
+  "name_hint": "Enter student name",
+  "class_hint": "Select student class",
+  "address_hint": "Enter student address",
+  "date_of_birth": "Date of birth",
+  "mobile_number": "Mobile Number",
+  "mobile_number_hint": "Enter mobile number",
+  "student_picture": "Student Picture",
+  "add_student_picture": "Add picture",
+  "browse_files": "Browse Files",
+  "notes_hint": "Enter notes about student",
+  "student_has_been_added_successfully": "Student has been added successfully.",
+  "student_has_been_updated_successfully": "Student has been updated successfully.",
+  "student_has_been_deleted_successfully": "Student has been deleted successfully.",
+
+
+  "===============": "================================== setting =================================",
+  "main_settings": "Main Settings",
+  "language": "Language",
+  "profile": "Profile",
+  "notifications": "Notifications",
+  "security": "Security",
+  "reach_out_to_us": "Reach out to us",
+  "about": "About",
+  "share": "Share",
+
+
+  "==============": "============================ snack bars & dialogs ===========================",
+  "loading": "Loading",
+  "there_is_no": "There is no",
+  "yet": "yet!.",
+  "try_again": "Try Again",
+  "internal_server_error_try_again_later": "Internal server error!. Try again later.",
+  "please_wait": "Please Wait",
+
+
+
+
+
+
+  "end": ""
+}
